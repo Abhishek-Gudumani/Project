@@ -24,4 +24,4 @@ CMD commands to install Django and mysql-connector:
 pip install django
 pip install mysql-connector-python
 
-================================================================
+
