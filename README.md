@@ -13,6 +13,7 @@ Anaconda Download Link:   https://docs.anaconda.com/anaconda/install/windows/
 MySQL Download Link:  https://dev.mysql.com/downloads/installer/
 
 ================================================================
+
 CMD commands to install Django and mysql-connector:
 
 pip install django
